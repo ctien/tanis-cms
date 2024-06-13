@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_blocks_heroes",
+  "info": {
+    "displayName": "Hero",
+    "icon": "cube",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "HeroSlide": {
+      "type": "component",
+      "repeatable": true,
+      "component": "blocks.hero-slide",
+      "max": 6,
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blocks_core_values",
+  "info": {
+    "displayName": "Core Values",
+    "icon": "cube",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "CoreValue": {
+      "type": "component",
+      "repeatable": true,
+      "component": "blocks.core-values-block"
+    },
+    "Title": {
+      "type": "string"
+    }
+  }
+}
