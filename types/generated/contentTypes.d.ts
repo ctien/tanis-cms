@@ -994,6 +994,12 @@ export interface ApiPostPost extends Schema.CollectionType {
           localized: true;
         };
       }>;
+    slug: Attribute.UID<'api::post.post', 'title'> &
+      Attribute.SetPluginOptions<{
+        i18n: {
+          localized: true;
+        };
+      }>;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
