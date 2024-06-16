@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktanis_cms=self.webpackChunktanis_cms||[]).push([[5532],{75532:(s,n,e)=>{e.r(n),e.d(n,{default:()=>d});const d={"plugin.description.long":"Tilf\xF8jer GraphQL endpoint med standard API metoder.","plugin.description.short":"Tilf\xF8jer GraphQL endpoint med standard API metoder.","plugin.name":"GraphQL"}}}]);

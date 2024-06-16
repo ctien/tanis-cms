@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktanis_cms=self.webpackChunktanis_cms||[]).push([[5442],{25442:(d,n,e)=>{e.r(n),e.d(n,{default:()=>s});const s={"plugin.description.long":"Agrega un endpoint GraphQL con m\xE9todos de API predeterminados.","plugin.description.short":"Agrega un endpoint GraphQL con m\xE9todos de API predeterminados.","plugin.name":"GraphQL"}}}]);

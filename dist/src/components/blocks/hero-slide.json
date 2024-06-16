@@ -1,0 +1,29 @@
+{
+    "collectionName": "components_blocks_hero_slides",
+    "info": {
+        "displayName": "Hero Slide",
+        "icon": "cube",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "Title": {
+            "type": "string",
+            "required": true,
+            "maxLength": 60
+        },
+        "image": {
+            "type": "media",
+            "multiple": false,
+            "required": true,
+            "allowedTypes": [
+                "images"
+            ]
+        },
+        "Description": {
+            "type": "string",
+            "maxLength": 160,
+            "required": true
+        }
+    }
+}

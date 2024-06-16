@@ -1,0 +1,13 @@
+{
+    "collectionName": "components_blocks_core_values_blocks",
+    "info": {
+        "displayName": "Core Values Block",
+        "icon": "cube"
+    },
+    "options": {},
+    "attributes": {
+        "title": {
+            "type": "string"
+        }
+    }
+}

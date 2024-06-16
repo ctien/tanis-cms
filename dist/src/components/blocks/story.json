@@ -1,0 +1,24 @@
+{
+    "collectionName": "components_blocks_stories",
+    "info": {
+        "displayName": "Story",
+        "icon": "cube",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "title": {
+            "type": "string"
+        },
+        "description": {
+            "type": "text"
+        },
+        "image": {
+            "allowedTypes": [
+                "images"
+            ],
+            "type": "media",
+            "multiple": true
+        }
+    }
+}

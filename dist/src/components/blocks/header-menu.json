@@ -1,0 +1,14 @@
+{
+    "collectionName": "components_blocks_header_menus",
+    "info": {
+        "displayName": "Header Menu"
+    },
+    "options": {},
+    "attributes": {
+        "MenuItem": {
+            "type": "component",
+            "repeatable": true,
+            "component": "blocks.link"
+        }
+    }
+}
